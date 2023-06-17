@@ -29,6 +29,7 @@ const prevFunction = (e) => {
       break;
     }
   }
+  
 };
 
 next.addEventListener("click", nextFunction);
