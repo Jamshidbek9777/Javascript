@@ -31,5 +31,6 @@ const prevFunction = (e) => {
   }
 };
 
+
 next.addEventListener("click", nextFunction);
 prev.addEventListener("click", prevFunction);
